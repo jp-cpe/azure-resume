@@ -4,5 +4,5 @@ Personal Azure Resume, following the [ACG project video.](https://www.youtube.co
 ## backend
 
 ## frontend
-- index.html contains the website content in html
-- main.js contains the visitor counter code
+- frontend folder contains the website
+    - main.js contains the visitor counter code
